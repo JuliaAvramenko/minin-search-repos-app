@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minin-search-repos-app/static/css/main.82445dc1.css",
+    "main.js": "/minin-search-repos-app/static/js/main.4b95ac9d.js",
+    "static/js/453.38dd0944.chunk.js": "/minin-search-repos-app/static/js/453.38dd0944.chunk.js",
+    "index.html": "/minin-search-repos-app/index.html",
+    "main.82445dc1.css.map": "/minin-search-repos-app/static/css/main.82445dc1.css.map",
+    "main.4b95ac9d.js.map": "/minin-search-repos-app/static/js/main.4b95ac9d.js.map",
+    "453.38dd0944.chunk.js.map": "/minin-search-repos-app/static/js/453.38dd0944.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82445dc1.css",
+    "static/js/main.4b95ac9d.js"
+  ]
+}
